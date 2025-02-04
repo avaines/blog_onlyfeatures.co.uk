@@ -1,0 +1,4 @@
+title = 'OnlyFeatures'
+baseURL = 'https://onlyfeatures.co.uk/'
+languageCode = 'en-GB'
+disableKinds = ['taxonomy', 'term']
