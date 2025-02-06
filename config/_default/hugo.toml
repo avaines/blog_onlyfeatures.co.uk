@@ -1,0 +1,28 @@
+title = 'OnlyFeatures'
+baseURL = 'https://onlyfeatures.co.uk/'
+copyright = "Copyright © 2025 OnlyFeatures.co.uk."
+canonifyurls = true
+
+theme = "hugo-clarity"
+disqusShortname = "" # TODO: Setup Disqus
+
+DefaultContentLanguage = "en"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+  pagerSize = 10
+
+
+# TODO: Make the colour pallet configurable, currently in assets/scss/_overrde.scss
+#FCBF49
+#F77F00
+#031018
+#D62828
+#EAE2B7
