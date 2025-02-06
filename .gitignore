@@ -1,3 +1,5 @@
+.DS_Store
+
 ### Hugo ###
 # Generated files by hugo
 /public/
@@ -5,5 +7,6 @@
 /assets/jsconfig.json
 hugo_stats.json
 
-# Temporary lock file while building
+# Temporary lock files
 /.hugo_build.lock
+**.afphoto~lock~
