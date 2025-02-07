@@ -1,5 +1,5 @@
 title = 'OnlyFeatures'
-# baseURL = 'https://onlyfeatures.co.uk/' # Breaks previews
+baseURL = 'https://onlyfeatures.co.uk/'
 copyright = "Copyright © 2025 OnlyFeatures.co.uk."
 canonifyurls = true
 
