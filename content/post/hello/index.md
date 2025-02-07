@@ -13,7 +13,8 @@ featureImage: 'https://images.unsplash.com/photo-1447069387593-a5de0862481e?ixli
 # featureImageCap: 'This is the featured image.' # Caption (optional).
 # thumbnail: 'thumbnail.jpg' # Image in lists of posts.
 # shareImage: 'share.jpg' # For SEO and social media snippets.
-
+articleUrl: 'https://gohugo.io/'
+articleQuote: 'A reference article'
 categories:
   - syntax
 tags:
